@@ -1,3 +1,6 @@
+# source
+https://github.com/designcourse/threejs-webpack-starter
+
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
